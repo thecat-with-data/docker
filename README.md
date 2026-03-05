@@ -15,3 +15,11 @@ The second project is designed to give you an understanding of how to set up a D
 You may simply navigate to this directory and use `docker compose up --build` with Docker Desktop installed to install and run the program, then navigate to `http://localhost:5000` to verify that your webserver is working.
 
 Working? I hope so! If it is, let's navigate to a secondary location: `http://localhost:5000/api/health`.
+
+## Third Project
+
+The third project is designed to give you the opportunity to set up a Docker container with Rust.
+
+You may simply navigate to this directory and use `docker compose up --build` with Docker Desktop installed to install and run the program, then navigate to `http://localhost:3000` to verify that your webserver is working.
+
+You can also follow the API directory to take you to `http://localhost:3000/api/health` and `http://localhost:3000/api/info`.
